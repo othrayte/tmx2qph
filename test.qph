@@ -1,0 +1,6843 @@
+<!DOCTYPE QPH>
+<QPH language="cs-CZ" sourcelanguage="en">
+ <phrase>
+  <source>
+   &amp;File
+  </source>
+  <target>
+   &amp;Soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Open
+  </source>
+  <target>
+   &amp;Otevrit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Save
+  </source>
+  <target>
+   &amp;Ulozit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;CIM3D File (.cim3d)
+  </source>
+  <target>
+   &amp;Data drahy nastroje (.tpd)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;VRML File (.wrl)
+  </source>
+  <target>
+   &amp;Vrml soubor (.wrl)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Autodesk &amp;Drawing Interchange (.dxf)
+  </source>
+  <target>
+   Autodesk &amp;vymena nakresu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Stereo&amp;Lithography File (.stl)
+  </source>
+  <target>
+   Stereo&amp;Lithography soubor (.stl)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;STEP (.stp)
+  </source>
+  <target>
+   STEP (.stp)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;IGES (.igs)
+  </source>
+  <target>
+   IGES (.igs)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool &amp;Edges
+  </source>
+  <target>
+   Brity &amp;Nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool &amp;2D Cross Section
+  </source>
+  <target>
+   Nastroj 2D &amp;Pricny rez
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Jpeg Image (.jpg)
+  </source>
+  <target>
+   &amp;Jpeg obrazek (.jpg)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   PN&amp;G Image (.png)
+  </source>
+  <target>
+   PN&amp;G obrazek (.png)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Capture to Clipboard
+  </source>
+  <target>
+   Vozit do schranky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Options...
+  </source>
+  <target>
+   &amp;Moznosti...
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Import DXF Overlay...
+  </source>
+  <target>
+   Import DXF pokryti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Recent File
+  </source>
+  <target>
+   Posledni soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Exit
+  </source>
+  <target>
+   Konec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Display
+  </source>
+  <target>
+   &amp;Zobraz
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;World Space
+  </source>
+  <target>
+   Prostor &amp;stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Tool Space
+  </source>
+  <target>
+   Prostor &amp;nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   W&amp;heel Space
+  </source>
+  <target>
+   Prostor &amp;kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Bac&amp;kground
+  </source>
+  <target>
+   Poz&amp;adi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Dark
+  </source>
+  <target>
+   &amp;Tmavy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;White
+  </source>
+  <target>
+   &amp;Bila
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Custom &amp;Colour...
+  </source>
+  <target>
+   Obvykla &amp;Barva
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Textured
+  </source>
+  <target>
+   &amp;Tvarovane
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Blank
+  </source>
+  <target>
+   &amp;Polotovar
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Hidden
+  </source>
+  <target>
+   &amp;Skryty
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Transparent
+  </source>
+  <target>
+   &amp;Transparentni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Camera
+  </source>
+  <target>
+   &amp;Kamera
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Orthogonal
+  </source>
+  <target>
+   &amp;Kolmy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Perspective
+  </source>
+  <target>
+   &amp;Perspektiva
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep &amp;Wheel Stationary
+  </source>
+  <target>
+   Zachovat &amp;stacionarni kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep &amp;Column Stationary
+  </source>
+  <target>
+   Nehybna &amp;podpera
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep &amp;Tool Stationary
+  </source>
+  <target>
+   Nehybny &amp;nastroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep &amp;Machine Stationary
+  </source>
+  <target>
+   Nehybny &amp;stroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep &amp;Headstock Stationary
+  </source>
+  <target>
+   Nehybny k&amp;onik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Legend
+  </source>
+  <target>
+   &amp;Legenda
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Disable
+  </source>
+  <target>
+   &amp;Vyradit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Time
+  </source>
+  <target>
+   &amp;Cas
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Operation
+  </source>
+  <target>
+   &amp;Operace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Move
+  </source>
+  <target>
+   &amp;Pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Wheel
+  </source>
+  <target>
+   &amp;Kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel &amp;Profile
+  </source>
+  <target>
+   &amp;Profil kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel &amp;Section
+  </source>
+  <target>
+   &amp;Sekce kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Mac&amp;hine
+  </source>
+  <target>
+   &amp;Stroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Hidden
+  </source>
+  <target>
+   &amp;Skryty
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Minimal
+  </source>
+  <target>
+   &amp;Minimum
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;All
+  </source>
+  <target>
+   &amp;Vse
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Base
+  </source>
+  <target>
+   &amp;Zakladnu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   C&amp;anopy
+  </source>
+  <target>
+   &amp;Skrin
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   B&amp;ridge/Column
+  </source>
+  <target>
+   &amp;Most/Sloup
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   H&amp;eadstock
+  </source>
+  <target>
+   &amp;Konik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Co&amp;llet
+  </source>
+  <target>
+   &amp;Upinac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Steady Bed
+  </source>
+  <target>
+   Loze lunety
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Pop-up Steady
+  </source>
+  <target>
+   &amp;vysuvna luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Clamp Steady
+  </source>
+  <target>
+   Upinaci luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Tailstock
+  </source>
+  <target>
+   &amp; konik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Dre&amp;sser
+  </source>
+  <target>
+   &amp;Orovnavac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Probe
+  </source>
+  <target>
+   Sonda
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;C Axis
+  </source>
+  <target>
+   &amp;C osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   P Ax&amp;is
+  </source>
+  <target>
+   &amp;P osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;X Axis
+  </source>
+  <target>
+   &amp;X osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Y Axis
+  </source>
+  <target>
+   &amp;Y osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Z Axis
+  </source>
+  <target>
+   &amp;Z osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Wheel Changer
+  </source>
+  <target>
+   &amp;vymenik nastroju
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Plane
+  </source>
+  <target>
+   &amp;Rovina
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Transparent
+  </source>
+  <target>
+   &amp;Transparentni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Back
+  </source>
+  <target>
+   &amp;Zpet
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Front
+  </source>
+  <target>
+   &amp;Vpred
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Grid
+  </source>
+  <target>
+   &amp;Brousit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Hidden
+  </source>
+  <target>
+   &amp;Skryty
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Protractor
+  </source>
+  <target>
+   &amp;Uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Graph Paper
+  </source>
+  <target>
+   &amp;Graf
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   C&amp;rosshairs
+  </source>
+  <target>
+   Nitkove krize
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Very Fine
+  </source>
+  <target>
+   &amp;Velmi jemny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Fine
+  </source>
+  <target>
+   &amp;Jemny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Medium
+  </source>
+  <target>
+   &amp;Stredni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Coarse
+  </source>
+  <target>
+   &amp;Hruby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Tool
+  </source>
+  <target>
+   &amp;Nastroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Hidden
+  </source>
+  <target>
+   &amp;Skryty
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Transparent
+  </source>
+  <target>
+   &amp;Transparentni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Wireframe
+  </source>
+  <target>
+   &amp;Drateny model
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Preview
+  </source>
+  <target>
+   &amp;Nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Highlight Cups
+  </source>
+  <target>
+   Zduraznit vybrani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Wheel
+  </source>
+  <target>
+   &amp;Kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Hidden
+  </source>
+  <target>
+   &amp;Skryty
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Current Wheel
+  </source>
+  <target>
+   &amp;Soucasny kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel &amp;Pack
+  </source>
+  <target>
+   &amp;Sada kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Transparent
+  </source>
+  <target>
+   &amp;Transparentni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Wireframe
+  </source>
+  <target>
+   &amp;Drateny model
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Fine
+  </source>
+  <target>
+   &amp;Jemny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Medium
+  </source>
+  <target>
+   &amp;Stredni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Coarse
+  </source>
+  <target>
+   &amp;Hruby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Slice
+  </source>
+  <target>
+   Rez kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Accumulated Wheel Slices
+  </source>
+  <target>
+   Hromadny rez kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset Wheel Slices
+  </source>
+  <target>
+   Obnovit rezy kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Metric
+  </source>
+  <target>
+   &amp;Metricky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Imperial
+  </source>
+  <target>
+   &amp;Britsky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Animate
+  </source>
+  <target>
+   &amp;Animace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Machine Axes
+  </source>
+  <target>
+   Osy s&amp;troje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   C&amp;ycle Time
+  </source>
+  <target>
+   Cas c&amp;yklu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Collisions
+  </source>
+  <target>
+   Ko&amp;lize
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Sectioning Plane
+  </source>
+  <target>
+   Profil plochy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Grind
+  </source>
+  <target>
+   &amp;Brousit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Enable
+  </source>
+  <target>
+   &amp;Povolit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Reset
+  </source>
+  <target>
+   &amp;Obnovit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Fine
+  </source>
+  <target>
+   &amp;Jemny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Medium
+  </source>
+  <target>
+   &amp;Stredni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Coarse
+  </source>
+  <target>
+   &amp;Hruby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Machine
+  </source>
+  <target>
+   S&amp;troj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Door Open
+  </source>
+  <target>
+   &amp;Otevrit dvere
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Machine Configuration
+  </source>
+  <target>
+   &amp;Konfigurace stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Window
+  </source>
+  <target>
+   &amp;Okno
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Measurement
+  </source>
+  <target>
+   &amp;Mereni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Cross-Section
+  </source>
+  <target>
+   &amp;Pricny rez
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D &amp;Projections
+  </source>
+  <target>
+   3D &amp;Projekce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Network Information
+  </source>
+  <target>
+   &amp;IP adresa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;License
+  </source>
+  <target>
+   &amp;Licence
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Help
+  </source>
+  <target>
+   &amp;Pomoc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;User Manual
+  </source>
+  <target>
+   &amp;Pruvodce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Release Notes
+  </source>
+  <target>
+   &amp;Povolit poznamky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;About
+  </source>
+  <target>
+   &amp;Okolo
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Insert Surface of Revolution
+  </source>
+  <target>
+   Vloz porvch rotace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Enable Light Sources
+  </source>
+  <target>
+   Zvol zdroje svetla
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Envelope Axes
+  </source>
+  <target>
+   Kryty os
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Accumulate Voxelisations
+  </source>
+  <target>
+   Shromazdit modelovani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View Voxelisations
+  </source>
+  <target>
+   Nahled modelovani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View Solid Mesh
+  </source>
+  <target>
+   Nahled plne mrizky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View Bucket Cursor
+  </source>
+  <target>
+   Nahled kurzoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Trace Tool Contact in Animation
+  </source>
+  <target>
+   Vyhledat kontakt nastroje v animaci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Trace Contact Lines In Animation
+  </source>
+  <target>
+   Vyhleat kontaktni primku v animaci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Trace Contact Lines In Grinding
+  </source>
+  <target>
+   Vyhledat kontaktni primku pri brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Disable Contact Lines Tracing
+  </source>
+  <target>
+   Zakazat sledovani kontaktni primky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Trace Points
+  </source>
+  <target>
+   Najit body
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Simple Wheel-Blank Intersections
+  </source>
+  <target>
+   Jednoduchy prusecik kotouc-polotovar
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Merge Continuous Moves
+  </source>
+  <target>
+   Spojit plynule pohyby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Display Lists
+  </source>
+  <target>
+   &amp;Zobrazit seznamy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Jitter
+  </source>
+  <target>
+   Chveni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   STL Container Memory Report
+  </source>
+  <target>
+   STL zasobnik pametovych hlaseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   OpenGL Display List Report
+  </source>
+  <target>
+   Otevri GL zobraz seznam hlaseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Status Page
+  </source>
+  <target>
+   Status stranky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Dynamic Items (This menu never used directly!)
+  </source>
+  <target>
+   Dynamicke polozky (Toto menu nepouzivat primo!)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item1
+  </source>
+  <target>
+   Predmet1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item2
+  </source>
+  <target>
+   Predmet2
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item3
+  </source>
+  <target>
+   Predmet3
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item4
+  </source>
+  <target>
+   Predmet4
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item5
+  </source>
+  <target>
+   Predmet5
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item6
+  </source>
+  <target>
+   Predmet6
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item7
+  </source>
+  <target>
+   Predmet7
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item8
+  </source>
+  <target>
+   Predmet8
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item9
+  </source>
+  <target>
+   Predmet9
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item10
+  </source>
+  <target>
+   Predmet10
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item11
+  </source>
+  <target>
+   Predmet11
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item12
+  </source>
+  <target>
+   Predmet12
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item13
+  </source>
+  <target>
+   Predmet13
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item14
+  </source>
+  <target>
+   Predmet14
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item15
+  </source>
+  <target>
+   Predmet15
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item16
+  </source>
+  <target>
+   Predmet16
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item17
+  </source>
+  <target>
+   Predmet17
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item18
+  </source>
+  <target>
+   Predmet18
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item19
+  </source>
+  <target>
+   Predmet19
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item20
+  </source>
+  <target>
+   Predmet20
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item21
+  </source>
+  <target>
+   Predmet21
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item22
+  </source>
+  <target>
+   Predmet22
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item23
+  </source>
+  <target>
+   Predmet23
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item24
+  </source>
+  <target>
+   Predmet24
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Item25
+  </source>
+  <target>
+   Predmet25
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Change Colour
+  </source>
+  <target>
+   &amp;Zmenit barvu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Shuffle Colours
+  </source>
+  <target>
+   &amp;Michani barev
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Default Colours
+  </source>
+  <target>
+   &amp;Obvykle barvy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Go to &amp;Operation
+  </source>
+  <target>
+   Prejit na &amp;operaci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Go to &amp;Move
+  </source>
+  <target>
+   Prejit na &amp;pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Go to Collision
+  </source>
+  <target>
+   Jdi do &amp;kolizi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Delete
+  </source>
+  <target>
+   Smazat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rename
+  </source>
+  <target>
+   Prejmenovat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Delete
+  </source>
+  <target>
+   Smazat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Animate
+  </source>
+  <target>
+   Animace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Slider1
+  </source>
+  <target>
+   Posuv1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Speed
+  </source>
+  <target>
+   Rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Slider2
+  </source>
+  <target>
+   Posuv2
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Slider1
+  </source>
+  <target>
+   Posuv1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move
+  </source>
+  <target>
+   Pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move Type
+  </source>
+  <target>
+   Typ pohybu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Operation
+  </source>
+  <target>
+   Operace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List2
+  </source>
+  <target>
+   Seznam2
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   A :
+  </source>
+  <target>
+   A:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   B :
+  </source>
+  <target>
+   B:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   A :
+  </source>
+  <target>
+   A:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   B :
+  </source>
+  <target>
+   B:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List2
+  </source>
+  <target>
+   Seznam2
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Orientation
+  </source>
+  <target>
+   Orientace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Zoom
+  </source>
+  <target>
+   Lupa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rotate
+  </source>
+  <target>
+   Rotace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Translate
+  </source>
+  <target>
+   Preklad
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Duration
+  </source>
+  <target>
+   Trvani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Normalised
+  </source>
+  <target>
+   Normalizovany
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Undo
+  </source>
+  <target>
+   Odvolat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cancel
+  </source>
+  <target>
+   Zrusit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Network Information
+  </source>
+  <target>
+   Nastaveni hostitele
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Host Name:
+  </source>
+  <target>
+   Jmeno host.:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Host IP:
+  </source>
+  <target>
+   IP host.:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Socket1:
+  </source>
+  <target>
+   Zasuvka:
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Protractor
+  </source>
+  <target>
+   Uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View
+  </source>
+  <target>
+   Nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool and Wheel
+  </source>
+  <target>
+   Nastroj a kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Overlay
+  </source>
+  <target>
+   Pokryti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Distance
+  </source>
+  <target>
+   Vzdalenost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Angle
+  </source>
+  <target>
+   Úhel
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   inch
+  </source>
+  <target>
+   palec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Shank
+  </source>
+  <target>
+   Stopka
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool cross section
+  </source>
+  <target>
+   Pricny rez nastrojem
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Machine Axes
+  </source>
+  <target>
+   Osy stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Enable Auto Run
+  </source>
+  <target>
+   Povolit autom. chod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use FastGrind
+  </source>
+  <target>
+   Pouzit FastGrind
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Enable loop mode
+  </source>
+  <target>
+   Povolit mod smycky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Settings
+  </source>
+  <target>
+   Nastaveni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Metric
+  </source>
+  <target>
+   Metricky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Imperial
+  </source>
+  <target>
+   Britsky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Units
+  </source>
+  <target>
+   Jednotky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Merge continuous moves
+  </source>
+  <target>
+   Spojit plynule pohyby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Settings
+  </source>
+  <target>
+   Nastaveni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Always use machine configuration settings stored in .cim3d or .tpd files
+  </source>
+  <target>
+   Vzdy pouzivejte zobrazeni nastaveni ulozeni pameti v TPD
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Settings
+  </source>
+  <target>
+   Nastaveni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour Mapping Legend
+  </source>
+  <target>
+   Legenda barevne mapy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List1
+  </source>
+  <target>
+   Seznam1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cycle Time
+  </source>
+  <target>
+   Casy cyklu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Calculate air time
+  </source>
+  <target>
+   Vypocet vedlejsiho casu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List1
+  </source>
+  <target>
+   Seznam1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List1
+  </source>
+  <target>
+   Seznam1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time = Contact time + Air time
+  </source>
+  <target>
+   Cas = cas kontaktu + vedlejsi cas
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Air time = Rapid time + Gap time
+  </source>
+  <target>
+   Vedlejsi cas = cas rychlopos. + cas odstupu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Default
+  </source>
+  <target>
+   Vychozi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Custom
+  </source>
+  <target>
+   Zakazka
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Width
+  </source>
+  <target>
+   Sirka
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Height
+  </source>
+  <target>
+   Vyska
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Resolution
+  </source>
+  <target>
+   Rozliseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   X offset
+  </source>
+  <target>
+   X vyrovnani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Pop-up steady
+  </source>
+  <target>
+   Vysuvna luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   X offset
+  </source>
+  <target>
+   X vyrovnani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Clamp steady
+  </source>
+  <target>
+   Uzaviraci luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Bed length
+  </source>
+  <target>
+   Delka loze
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Steady bed
+  </source>
+  <target>
+   Loze lunety
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   None
+  </source>
+  <target>
+   Zadny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Standard P-axis
+  </source>
+  <target>
+   Standardní P-osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Z offset
+  </source>
+  <target>
+   Vyrovnani Z
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Width 1
+  </source>
+  <target>
+   Sirka 1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Width 2
+  </source>
+  <target>
+   Sirka 2
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Width 3
+  </source>
+  <target>
+   Sirka 3
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Full bush
+  </source>
+  <target>
+   Plne pouzdro
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Bush
+  </source>
+  <target>
+   Pouzdro
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Pad length
+  </source>
+  <target>
+   Delka vlozky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset to default
+  </source>
+  <target>
+   Obnovit na vychozi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   P-axis options
+  </source>
+  <target>
+   Opce osy P
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Standard
+  </source>
+  <target>
+   Standardní
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   P-axis
+  </source>
+  <target>
+   P - osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Standard (TapX)
+  </source>
+  <target>
+   Standardní (TapX)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   P-axis (TapX)
+  </source>
+  <target>
+   P - osa (TapX)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Up
+  </source>
+  <target>
+   Nahoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tailstock options
+  </source>
+  <target>
+   Opce koniku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Centres
+  </source>
+  <target>
+   Stredy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Workpiece support
+  </source>
+  <target>
+   Podepreni soucasti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   None
+  </source>
+  <target>
+   Zadny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Steady
+  </source>
+  <target>
+   Luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   P-axis
+  </source>
+  <target>
+   P - osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tailstock
+  </source>
+  <target>
+   Konik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Workpiece support options
+  </source>
+  <target>
+   Opce podepreni soucasti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Options
+  </source>
+  <target>
+   Opce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tree1
+  </source>
+  <target>
+   Strom1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   &amp;Cancel
+  </source>
+  <target>
+   &amp;Zrusit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Collisions
+  </source>
+  <target>
+   Kolize
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Check collisions
+  </source>
+  <target>
+   Overit kolize
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Highlight Collisions
+  </source>
+  <target>
+   Upozornit na kolize
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List1
+  </source>
+  <target>
+   Seznam1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Sectioning Plane
+  </source>
+  <target>
+   Profil plochy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rotate around tool centre
+  </source>
+  <target>
+   Rotovat kolem stredu nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Clear all
+  </source>
+  <target>
+   Smazat vse
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Step
+  </source>
+  <target>
+   Stupen
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Slider1
+  </source>
+  <target>
+   Posuv1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hidden
+  </source>
+  <target>
+   Skryte
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Transparent
+  </source>
+  <target>
+   Pruhledny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Back
+  </source>
+  <target>
+   Zpet
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Front
+  </source>
+  <target>
+   Celo
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Smaller
+  </source>
+  <target>
+   Mensi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Bigger
+  </source>
+  <target>
+   Vetsi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Plane
+  </source>
+  <target>
+   Rovina
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Precision
+  </source>
+  <target>
+   Presnost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save steps
+  </source>
+  <target>
+   Ulozit stupne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Load steps
+  </source>
+  <target>
+   Stahnout stupne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Work holding
+  </source>
+  <target>
+   Upinani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Work holding options
+  </source>
+  <target>
+   Opce upinani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Metric
+  </source>
+  <target>
+   Metricky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Imperial
+  </source>
+  <target>
+   Britsky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Auto Select Collet
+  </source>
+  <target>
+   Auto vyber klestiny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Size
+  </source>
+  <target>
+   Velikost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Dresser
+  </source>
+  <target>
+   Orovnavac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   None
+  </source>
+  <target>
+   Zadny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Headstock
+  </source>
+  <target>
+   Vretenik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Stand alone
+  </source>
+  <target>
+   Samostatne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Stand alone (P-axis)
+  </source>
+  <target>
+   Samostatne (P-osa)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Thread
+  </source>
+  <target>
+   Zavit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Options
+  </source>
+  <target>
+   Opce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Dresser Roll
+  </source>
+  <target>
+   Orovnavaci kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Browse...
+  </source>
+  <target>
+   Prochazet
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Metric
+  </source>
+  <target>
+   Metricky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Imperial
+  </source>
+  <target>
+   Britsky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Diameter
+  </source>
+  <target>
+   Prumer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Range
+  </source>
+  <target>
+   Rozsah
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Browse...
+  </source>
+  <target>
+   Prochazet
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cancel
+  </source>
+  <target>
+   Zrusit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Size
+  </source>
+  <target>
+   Velikost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Units
+  </source>
+  <target>
+   Jednotky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   DXF File
+  </source>
+  <target>
+   DXF soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rename
+  </source>
+  <target>
+   Prejmenovat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cancel
+  </source>
+  <target>
+   Zrusit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Imported collets
+  </source>
+  <target>
+   Dodane klestiny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cancel
+  </source>
+  <target>
+   Zrusit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   inch
+  </source>
+  <target>
+   palec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   inch
+  </source>
+  <target>
+   palec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   inch
+  </source>
+  <target>
+   palec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   inch
+  </source>
+  <target>
+   palec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   inch
+  </source>
+  <target>
+   palec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   CIMulator3D\nModel\nModel\nModels (*.tpd)\n.tpd\nWinFFS.Model\nWinFFS Model
+  </source>
+  <target>
+   Cimulator 3D\nModel\nModel\nModels (*.tpd)\n.tpd\nWinFFS.Model\nWinFFS Model
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Can not reuse the name from ANCA COLLET LIBRARY
+  </source>
+  <target>
+   Nelze znovu pouzit nazev z ANCA KNIHOVNA KLESTIN
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   SBG Chuck
+  </source>
+  <target>
+   SBG sklicidlo
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   SBG Chuck - Small
+  </source>
+  <target>
+   SBG sklicidlo - male
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   SBG Chuck - Large
+  </source>
+  <target>
+   SBG sklicidlo - velke
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   MACS 8mm Bore
+  </source>
+  <target>
+   MACS 8mm pruchod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   MACS 16mm Bore
+  </source>
+  <target>
+   MACS 16mm pruchod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   MACS 27mm Bore
+  </source>
+  <target>
+   MACS 27mm pruchod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   MiniMACS 10mm Bore
+  </source>
+  <target>
+   MiniMACS 10mm pruchod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Blade Chuck
+  </source>
+  <target>
+   Nozove sklicidlo
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Blade Chuck - Small
+  </source>
+  <target>
+   Nozove sklicidlo - male
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Blade Chuck - Medium
+  </source>
+  <target>
+   Nozove sklicidlo - stredni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Blade Chuck - Large
+  </source>
+  <target>
+   Nozove sklicidlo - velke
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   CIMulator3D
+  </source>
+  <target>
+   Simulator 3D
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   For Help, press F1
+  </source>
+  <target>
+   Pomoc - stiskni F1
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select an object on which to get Help
+  </source>
+  <target>
+   Vyber objekt se kterym chces pomoci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Get Model from Network
+  </source>
+  <target>
+   Ziskej model ze site
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Get Model from Network
+  </source>
+  <target>
+   Ziskej model ze site
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open
+  </source>
+  <target>
+   Otevri
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open an existing document
+  </source>
+  <target>
+   Otevri existujici dokument
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Close
+  </source>
+  <target>
+   Zavri
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Close the active document
+  </source>
+  <target>
+   Zavri aktivni dokument
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save
+  </source>
+  <target>
+   Uloz
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the active document
+  </source>
+  <target>
+   Uloz aktivni dokument
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save As
+  </source>
+  <target>
+   Uloz jako
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the active document with a new name
+  </source>
+  <target>
+   Uloz aktivni dokument s novym jmenem
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Page Setup
+  </source>
+  <target>
+   Nastavit stranku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Change the printing options
+  </source>
+  <target>
+   Zmen nastaveni tisku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Print Setup
+  </source>
+  <target>
+   Nastaveni tisku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Change the printer and printing options
+  </source>
+  <target>
+   Zmen tiskarnu a nastaveni tisku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Print
+  </source>
+  <target>
+   Tisk
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Print the active document
+  </source>
+  <target>
+   Tiskni tento dokument
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display full pages\nPrint Preview
+  </source>
+  <target>
+   Zobrazit celou stranku\nTisk nahledu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display program information, version number and copyright\nAbout
+  </source>
+  <target>
+   Zobraz programove informace, cislo verze a aut. prava\nOkolo
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Exit the CIMulator3D application
+  </source>
+  <target>
+   Ukoncit simulator 3D
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Opens Help\nHelp Topics
+  </source>
+  <target>
+   Otevri pomoc\nTemata pomoci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Help Topics
+  </source>
+  <target>
+   Temata pomoci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   List Help topics
+  </source>
+  <target>
+   Seznam temat pomoci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Help
+  </source>
+  <target>
+   Pomoc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display instructions about how to use help
+  </source>
+  <target>
+   Zobraz instrukce, jak pouzivat pomoc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Help
+  </source>
+  <target>
+   Pomoc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display help for clicked on buttons, menus and windows
+  </source>
+  <target>
+   Zobraz pomoc pro tlacitka, menu a wimdows
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Help
+  </source>
+  <target>
+   Pomoc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display help for current task or command
+  </source>
+  <target>
+   Zobraz pomoc pro souc. ukol, nebo prikaz
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use mouse to set anchor points.
+  </source>
+  <target>
+   Pouzij mys pro nast. kotevnich bodu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rotate about tool axis.
+  </source>
+  <target>
+   Tocit kolem osy nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use mouse to select multiple views for focus.
+  </source>
+  <target>
+   Pouzij mys pro zadani okna nahledu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   General
+  </source>
+  <target>
+   Obecne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Grind
+  </source>
+  <target>
+   Brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display
+  </source>
+  <target>
+   Zobrazeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Options
+  </source>
+  <target>
+   Opce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Image Capture
+  </source>
+  <target>
+   Zachyceni snimku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Next Pane
+  </source>
+  <target>
+   Dalsi okno
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Switch to the next window pane
+  </source>
+  <target>
+   Prejdi do dalsiho okna
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Previous Pane
+  </source>
+  <target>
+   Predchozi tabulka
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Switch back to the previous window pane
+  </source>
+  <target>
+   Prepni zpet na predchozi window tabulku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Patch
+  </source>
+  <target>
+   Zaplata
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Version
+  </source>
+  <target>
+   Verze
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   New Window
+  </source>
+  <target>
+   Nove okno
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open another window for the active document
+  </source>
+  <target>
+   Otevri dalsi okno pro aktivni dokument
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Arrange Icons
+  </source>
+  <target>
+   Zarad ikony
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Arrange icons at the bottom of the window
+  </source>
+  <target>
+   Zarad ikony na spodek okna
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cascade Windows
+  </source>
+  <target>
+   Okna kaskadove
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Arrange windows so they overlap
+  </source>
+  <target>
+   Serad okna prekryvanim
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tile Windows
+  </source>
+  <target>
+   Okna dlazdicove
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Arrange windows as non-overlapping tiles
+  </source>
+  <target>
+   Serad okna jako neprekryvane dlazdice
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tile Windows
+  </source>
+  <target>
+   Okna dlazdicove
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Arrange windows as non-overlapping tiles
+  </source>
+  <target>
+   Serad okna jako neprekryvane dlazdice
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Split
+  </source>
+  <target>
+   Rozdel
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Split the active window into panes
+  </source>
+  <target>
+   Rozdel aktivni okno do tabulek
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Erase
+  </source>
+  <target>
+   Smazat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Erase the selection
+  </source>
+  <target>
+   Smazat vybrane
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Erase All
+  </source>
+  <target>
+   Smazat vse
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Erase everything
+  </source>
+  <target>
+   Smazat vsechny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Copy
+  </source>
+  <target>
+   Kopiruj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Copy the selection and put it on the Clipboard
+  </source>
+  <target>
+   Kopiruj vybrane a uloz do schranky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cut
+  </source>
+  <target>
+   Vystrihni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cut the selection and put it on the Clipboard
+  </source>
+  <target>
+   Vyrizni vybrane a uloz do schranky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Find
+  </source>
+  <target>
+   Najdi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Find the specified text
+  </source>
+  <target>
+   Najdi vybrany text
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Insert Clipboard contents\nPaste
+  </source>
+  <target>
+   Oznac obsah schranky\nVlozit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Repeat
+  </source>
+  <target>
+   Opakuj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Repeat the last action
+  </source>
+  <target>
+   Opakuj posledni akci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Replace
+  </source>
+  <target>
+   Nahrad
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Replace specific text with different text
+  </source>
+  <target>
+   Nahrad specificky text jinym textem
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select All
+  </source>
+  <target>
+   Vyber vse
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select the entire document
+  </source>
+  <target>
+   Vyber cely dokument
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Undo
+  </source>
+  <target>
+   Zpet
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Undo the last action
+  </source>
+  <target>
+   Odvolat posledni akci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Redo
+  </source>
+  <target>
+   Vpred
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Redo the previously undone action
+  </source>
+  <target>
+   Vpred na predeslou nedokondenou akci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle ToolBar
+  </source>
+  <target>
+   Prepni panel nastroju
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show or hide the toolbar
+  </source>
+  <target>
+   Ukaz nebo skryj panel nastroju
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle StatusBar
+  </source>
+  <target>
+   Prepni status panel
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show or hide the status bar
+  </source>
+  <target>
+   Ukaz nebo skryj status panel
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Could not obtain APPDATA directory.
+  </source>
+  <target>
+   Nepodarilo se ziskat APPDATA adresar.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Could not obtain MyDocument directory.
+  </source>
+  <target>
+   Nepodarilo se ziskat MyDocument adresar.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Change the window size
+  </source>
+  <target>
+   Zmen velikost okna
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Change the window position
+  </source>
+  <target>
+   Zmen polohu okna
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reduce the window to an icon
+  </source>
+  <target>
+   Zmensi okno na ikonu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Enlarge the window to full size
+  </source>
+  <target>
+   Zvetsit okno na plnou velikost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Switch to the next document window
+  </source>
+  <target>
+   Prepnout na dalsi dokument windows
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Switch to the previous document window
+  </source>
+  <target>
+   Prepnout na predesly dokument windows
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Close the active window and prompts to save the documents
+  </source>
+  <target>
+   Zavri aktivni okno a uloz tyto dokumenty
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Restore the window to normal size
+  </source>
+  <target>
+   Zvets okno do normalni velikosti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Activate Task List
+  </source>
+  <target>
+   Aktivuj seznam uloh
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Activate this window
+  </source>
+  <target>
+   Aktivuj toto okno
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rotate
+  </source>
+  <target>
+   Zavrit tiskovy nahled\nZrus nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Editing the license data manually is not recommended. Use Import License instead.\nAre you sure you want to proceed?
+  </source>
+  <target>
+   Menit data o licenci manualne se nedoporucuje. Pouzijte instalaci licence\nJste pripraveni pokracovat?
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   License
+  </source>
+  <target>
+   Licence
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Invalid product key.
+  </source>
+  <target>
+   Neplatny klic produktu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Invalid options key.
+  </source>
+  <target>
+   Neplatne moznosti klice
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   The license file that you are trying to load is not intended for this product.
+  </source>
+  <target>
+   Licence, kterou se snazite nacist, neni urcena pro tento produkt
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   The license file that you are trying to load is not intended for this product version.
+  </source>
+  <target>
+   Licence, kterou se snazite nacist, neni urcena pro tuto verzi produktu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   The license file that you are trying to load is not intended for this computer.
+  </source>
+  <target>
+   Licence, kterou se snazite nacist, neni urcena pro tento pocitac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Error loading license file!
+  </source>
+  <target>
+   Chybny nacitany licencni soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Real Speed
+  </source>
+  <target>
+   Skutecna rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Animate at real speed
+  </source>
+  <target>
+   Skutecna rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Speed
+  </source>
+  <target>
+   Rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Current speed
+  </source>
+  <target>
+   Soucasna rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Animate with the fastest possible rate\nFull Speed
+  </source>
+  <target>
+   Animovat v nejvyssi mozne rychlosti\nMax rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Previous Move
+  </source>
+  <target>
+   Predesly pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Position on previous move
+  </source>
+  <target>
+   Pozice na predeslem pohybu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Current Move
+  </source>
+  <target>
+   Soucasny pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Current Move
+  </source>
+  <target>
+   Soucasny pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Next Move
+  </source>
+  <target>
+   Pristi pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Position on next move
+  </source>
+  <target>
+   Pozice na pristim pohybu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Play Reverse
+  </source>
+  <target>
+   Prehrat opacne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Start grinding wheel animation in reverse direction
+  </source>
+  <target>
+   Start animace brousicich kotoucu s opacnym smerem
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Departure Distance
+  </source>
+  <target>
+   Vzdalenost odjezdu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Departure Distance
+  </source>
+  <target>
+   Vzdalenost odjezdu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Start grinding wheel animation\nPlay Forward
+  </source>
+  <target>
+   Start animace brouseni\nPrehrat vpred
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle grinding
+  </source>
+  <target>
+   Umisti brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle grinding during animation
+  </source>
+  <target>
+   Umisti brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle Auto-Run\nToggle Auto-Run
+  </source>
+  <target>
+   Prepinac AutoRun\Neprepni Auto-Run
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   FastGrind
+  </source>
+  <target>
+   Rychle brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Grind without animating
+  </source>
+  <target>
+   Rychle brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select Protractor in Millimetres or Inches
+  </source>
+  <target>
+   Vyber uhlomer v mm nebo inch
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rotate Protractor
+  </source>
+  <target>
+   Otocit uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set the mouse to rotate protractor mode
+  </source>
+  <target>
+   Otocit uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the protractor.
+  </source>
+  <target>
+   Zobraz uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Protractor
+  </source>
+  <target>
+   Zobraz uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Protractor Angle
+  </source>
+  <target>
+   Uhel uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   The angle of the protractor
+  </source>
+  <target>
+   Uhel uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Zero Protractor Position
+  </source>
+  <target>
+   Nastav nulovou pozici
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Zero the protractor position
+  </source>
+  <target>
+   Nastav nulovou pozici
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset Protractor
+  </source>
+  <target>
+   Zrusit uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset Protractor
+  </source>
+  <target>
+   Obnovit uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle Protractor
+  </source>
+  <target>
+   Umisti uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle the protractor
+  </source>
+  <target>
+   Umisti uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Home
+  </source>
+  <target>
+   Domu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set the view to the next home position
+  </source>
+  <target>
+   Domu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle display of the column.
+  </source>
+  <target>
+   Prepni zobrazeni sloupce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Stop grinding.
+  </source>
+  <target>
+   Stop brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use lighting
+  </source>
+  <target>
+   Pouzit osvetleni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set Home
+  </source>
+  <target>
+   Nastavit zakladni poz
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set a home position
+  </source>
+  <target>
+   Nastavit zakladni poz
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Print Current View
+  </source>
+  <target>
+   Tiskni soucasny nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Specify grinding simulation detail manually
+  </source>
+  <target>
+   Specifikuj detail simulace brouseni manualne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View and set the current Yardstick
+  </source>
+  <target>
+   Nahled a nastaveni soucasneho meritka
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Axes
+  </source>
+  <target>
+   Osy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle the display of world-space axes
+  </source>
+  <target>
+   Prepni zobrazeni os prostoru stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle the display of tool-space axes
+  </source>
+  <target>
+   Prepni zobrazeni os prostoru nastr.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle the display of wheel-space axes
+  </source>
+  <target>
+   Prepni zobrazeni os prostoru kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Disable colour mapping for ground surfaces
+  </source>
+  <target>
+   Zablokovat barevne kodovani povrchu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour code ground surfaces according to time
+  </source>
+  <target>
+   Barevne kodovani povrchu podle casu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour code ground surfaces according to move
+  </source>
+  <target>
+   Barevne kodovani povrchu podle pohybu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour code ground surfaces according to the wheel profile
+  </source>
+  <target>
+   Barevne kodovani povrchu podle profilu kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour code ground surfaces according to the wheel section type
+  </source>
+  <target>
+   Barevne kodovani povrchu podle tipu sekce kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Angle Between Radial and Normal
+  </source>
+  <target>
+   Uhel mezi radialnim a normalnim
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Angle Between Axial and Normal
+  </source>
+  <target>
+   Uhel mezi axialnim a normalnim
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   No Colour Mapping
+  </source>
+  <target>
+   Bez barevne mapy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time Colour Mapping
+  </source>
+  <target>
+   Mapa barev casova
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move Colour Mapping
+  </source>
+  <target>
+   Mapa barev bohybova
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Profile Colour Mapping
+  </source>
+  <target>
+   Mapa barev-profil kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Section Colour Mapping
+  </source>
+  <target>
+   Mapa barev-sekce kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cup Highlighting
+  </source>
+  <target>
+   Zvyrazneni dutiny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use a fine grid for the protractor overlay
+  </source>
+  <target>
+   Pouzit jemnou sit pro pokryti uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use the default grid for the protractor overlay
+  </source>
+  <target>
+   Pouzit nastavenou sit pro pokryti uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use a coarse grid for the protractor overlay
+  </source>
+  <target>
+   Pouzit hrubou sit pro pokryti uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Operation Colour Mapping
+  </source>
+  <target>
+   Operacni mapa barev
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Stationary Mode
+  </source>
+  <target>
+   Staticky mod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select Camera Stationary Mode
+  </source>
+  <target>
+   Vyber staticky mod kamery
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour code ground surface according to operation
+  </source>
+  <target>
+   Barevne kodovani povrchu podle operaci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Some collet details have not been filled in. Fill in the details and try again.
+  </source>
+  <target>
+   Nektere detaily klestiny nejsou zadany. vyplnte udaje a zkuste znovu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Error Message
+  </source>
+  <target>
+   Chybove hlaseni.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Import 2D geometry from a DXF file as an overlay
+  </source>
+  <target>
+   Importovat 2D geometrii ze souboru DXF jako pokryti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display result 2 of cutting the tool with the clipping plane.
+  </source>
+  <target>
+   Zobrazit vysledek 2 brouseni nastroje s odbrousenim
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Zoom/Pan/Rotate
+  </source>
+  <target>
+   Lupa/panev/rotace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set the mouse controls to Zoom/Pan/Rotate mode
+  </source>
+  <target>
+   Lupa/panev/rotace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Measure
+  </source>
+  <target>
+   Merit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Measure
+  </source>
+  <target>
+   Merit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Light Source
+  </source>
+  <target>
+   Zdroj svetla
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set the mouse to light source positioning mode
+  </source>
+  <target>
+   Polohovaci mod zdroje svetla
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle automatic simulation when a TPD file is opened.
+  </source>
+  <target>
+   Prepni automatickou simulaci, kdyz je otevren TPD soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide the wheel pack
+  </source>
+  <target>
+   Skryt sadu kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide the cutting plane
+  </source>
+  <target>
+   Skryt reznou rovinu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Speed
+  </source>
+  <target>
+   Rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Current Speed
+  </source>
+  <target>
+   Soucasna rychlost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move
+  </source>
+  <target>
+   Pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Current Move
+  </source>
+  <target>
+   Soucasny pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time
+  </source>
+  <target>
+   Vzdalenost odjezdu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time
+  </source>
+  <target>
+   Vzdalenost odjezdu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Protractor Angle
+  </source>
+  <target>
+   Uhel uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   The angle of the protractor
+  </source>
+  <target>
+   Uhel uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   FULL
+  </source>
+  <target>
+   PLNY
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Arrangements
+  </source>
+  <target>
+   Upravy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Manipulation mode
+  </source>
+  <target>
+   Manipulacni mod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Animate
+  </source>
+  <target>
+   Animace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Measurements
+  </source>
+  <target>
+   Mereni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Grinding
+  </source>
+  <target>
+   Brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Problem reading from network connection
+  </source>
+  <target>
+   Problem se ctenim ze sitoveho pripojeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Parsing
+  </source>
+  <target>
+   Rozebrat
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Already in server mode, or parsing another file.
+  </source>
+  <target>
+   Jiz v server modu, nebo rozebrat dalsi soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Pack
+  </source>
+  <target>
+   Sada kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool
+  </source>
+  <target>
+   Nastroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Overlay
+  </source>
+  <target>
+   Pokryti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Axis
+  </source>
+  <target>
+   Osy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Opening a new model will discard the current one.
+  </source>
+  <target>
+   Otevirani noveho modelu bude odlozeno
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Diff.
+  </source>
+  <target>
+   Rozdil
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   End
+  </source>
+  <target>
+   Konec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Changing the yardstick will loose all grinding results.
+  </source>
+  <target>
+   Zmenou meritka budou vysledky brouseni nepresne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Diameter
+  </source>
+  <target>
+   Prumer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Distance
+  </source>
+  <target>
+   Vzdalenost
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time
+  </source>
+  <target>
+   Cas
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move
+  </source>
+  <target>
+   Pohyb
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show Blank
+  </source>
+  <target>
+   Zobraz polotovar
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide Blank
+  </source>
+  <target>
+   Skryt polotovar
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wireframe Tool
+  </source>
+  <target>
+   Drateny model nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Solid Tool
+  </source>
+  <target>
+   Plny nastroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Contact Lines
+  </source>
+  <target>
+   Kontaktni primky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Disable Contact Lines
+  </source>
+  <target>
+   Zakazat kontaktni primky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Millimeter
+  </source>
+  <target>
+   Milimetr
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide Protractor
+  </source>
+  <target>
+   Skryt uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show Protractor
+  </source>
+  <target>
+   Ukaz uhlomer
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Removing
+  </source>
+  <target>
+   Vyjmout
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Saving
+  </source>
+  <target>
+   Ulozeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Machine Configuration
+  </source>
+  <target>
+   Konfigurace stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Yardstick set to : %f
+  </source>
+  <target>
+   Meritko nastav do : %f
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide World Axes
+  </source>
+  <target>
+   Skryt svetove osy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show World Axes
+  </source>
+  <target>
+   Ukazat svetove osy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide Tool Axes
+  </source>
+  <target>
+   Skryt osy nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show Tool Axes
+  </source>
+  <target>
+   Ukazat osy nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide Wheel Axes
+  </source>
+  <target>
+   Skryt osy kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show Wheel Axes
+  </source>
+  <target>
+   Ukaz osy kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select Colour Mapping Mode
+  </source>
+  <target>
+   Vyber mod barevneho zobrazeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select Colour Mapping Mode
+  </source>
+  <target>
+   Vyber mod barevneho  zobrazeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show
+  </source>
+  <target>
+   Ukaz
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select Stationary Mode
+  </source>
+  <target>
+   Vyber staticky mod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select Stationary Mode
+  </source>
+  <target>
+   Vyber staticky mod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Current
+  </source>
+  <target>
+   Soucasny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Failed to generate hardware key
+  </source>
+  <target>
+   Neuspesne vytvoreny hardwarovy klic
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Failed to get hardware serial number, exit
+  </source>
+  <target>
+   Neplatne hardwarove seriove cislo, konec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle wheel slice mode
+  </source>
+  <target>
+   Prepni mod rez kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle wheel slice accumulation
+  </source>
+  <target>
+   Prepni narust rezu kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open the animation dialog\nAnimation Dialog
+  </source>
+  <target>
+   Otevri animacni dialog
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Colour Mapping
+  </source>
+  <target>
+   Barevne zobrazeni kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Position Guide
+  </source>
+  <target>
+   Navod pozice kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open .cim3d, Tool Path Data or VRML data file
+  </source>
+  <target>
+   Otevri cestu nastroje, PDF nebo VRML soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Can't see Netbios, exit
+  </source>
+  <target>
+   Nelze prohlednout Netbios, konec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Sectioning Plane
+  </source>
+  <target>
+   Profil plochy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool Menu
+  </source>
+  <target>
+   Menu nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Menu
+  </source>
+  <target>
+   Menu kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Plane Menu
+  </source>
+  <target>
+   Menu roviny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Axes Menu
+  </source>
+  <target>
+   Menu os
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Grid Menu
+  </source>
+  <target>
+   Menu mrizky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wrong installation key, bail out
+  </source>
+  <target>
+   Chybny instalacni klic, opustit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Blank Menu
+  </source>
+  <target>
+   Menu polotovaru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Grinding results will be lost
+  </source>
+  <target>
+   Vysledky brouseni budou ztraceny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   surface
+  </source>
+  <target>
+   povrch
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   tri
+  </source>
+  <target>
+   trio
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   vertex
+  </source>
+  <target>
+   vrchol
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the IP address and socket of the CIMulator3D server
+  </source>
+  <target>
+   Zobtaz IP adresu a konektor servru 3D simulatoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset all grinding results
+  </source>
+  <target>
+   Obnovit vsechny vysledky brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use a very fine grid for the protractor overlay
+  </source>
+  <target>
+   Pouzij velmi jemnou mrizku pokryti uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Ignore incoming rapid moves.
+  </source>
+  <target>
+   Ignoruj prichazejici rychle pohyby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Merge moves which are continuous.
+  </source>
+  <target>
+   Spojit nepretrzite pohyby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Users Guide
+  </source>
+  <target>
+   Uzivatelsky navod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the CIMulator3D Users Guide
+  </source>
+  <target>
+   Zobraz uzivatelsky navod 3D Simulatoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Measurement
+  </source>
+  <target>
+   Mereni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the tool with transparency
+  </source>
+  <target>
+   Zobraz nastroj transparentne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle display of highlighted cups
+  </source>
+  <target>
+   Prepni zobrazeni upozorneni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle interference test between the tool and other wheels.
+  </source>
+  <target>
+   Prepni test inteference mezi nastrojem a dalsimi kotouci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Release Notes
+  </source>
+  <target>
+   euvadet
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the CIMulator3D Release Notes
+  </source>
+  <target>
+   Zobrazit uvedene poznamky 3D simulatoru simulatoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display graph paper.
+  </source>
+  <target>
+   Zobraz graficky papir
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display graph paper
+  </source>
+  <target>
+   Zobraz graficky papir
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide the grid.
+  </source>
+  <target>
+   Skryt sit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide the grid
+  </source>
+  <target>
+   Skryt sit souradnic
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle Protractor
+  </source>
+  <target>
+   Umisti zobrazeni uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle display of the protractor
+  </source>
+  <target>
+   Umisti zobrazeni uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Change CIMulator3D settings
+  </source>
+  <target>
+   Zmena nastaveni simulatoru 3D.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D View
+  </source>
+  <target>
+   3D nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D-Projections
+  </source>
+  <target>
+   3D-projekce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D-Projections
+  </source>
+  <target>
+   3D-projekce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   2D-Close-up
+  </source>
+  <target>
+   2D-detail
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   2D-Close-up
+  </source>
+  <target>
+   2D-detail
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Close the currently selected arrangement
+  </source>
+  <target>
+   Zavrit soucasne vybrane opatreni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Exit Application
+  </source>
+  <target>
+   Vystup z aplikace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Failed to create OpenGL rendering context.
+  </source>
+  <target>
+   Nepodarilo se vytvorit OpenGL vyjadreni souvislosti.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cross-Section
+  </source>
+  <target>
+   Pricny rez
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D Projections
+  </source>
+  <target>
+   3D Projekce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Help
+  </source>
+  <target>
+   Pomoc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Fly-Through Program File (*.fly)|*.fly|
+  </source>
+  <target>
+   Projit programovy soubor (*.fly)|*.fly|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tool Path Data (*.tpd)|*.tpd|
+  </source>
+  <target>
+   Data drahy nastroje (*.tpd)|*.tpd|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3-D Debug Data File (*.3db)|*.3db|
+  </source>
+  <target>
+   3-D odladeni dat souboru (*.3db)|*.3db|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Part Definition File (*.pdf)|*.pdf|
+  </source>
+  <target>
+   Soubor definice dilu (*.pdf)|*.pdf|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Camera Position (*.cam)|*.cam|
+  </source>
+  <target>
+   Pozice kamery (*.cam)|*.cam|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save Tool Path data.
+  </source>
+  <target>
+   Uloz data drahy nasroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save tool as VRML file.
+  </source>
+  <target>
+   Uloz nastroj jako VRML soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save PPM image file.
+  </source>
+  <target>
+   Uloz PPM vzorovy soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save JPEG image file.
+  </source>
+  <target>
+   Uloz JPEG vzorovy soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save 4bit PCX image file.
+  </source>
+  <target>
+   Uloz 4bit PCX vzorovy soubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save fly-through animation sequence.
+  </source>
+  <target>
+   Uloz probehle animovane sekvence
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save camera position.
+  </source>
+  <target>
+   Uloz pozici kamery
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save tool as DXF file.
+  </source>
+  <target>
+   Uloz nastroj jako DXF suubor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset Tool Axis Rotation
+  </source>
+  <target>
+   Obnovit osu rotace nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset Protractor Angle
+  </source>
+  <target>
+   Obnovit uhel uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Adjust X Offset
+  </source>
+  <target>
+   Upravit X ofset
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Adjust Y Offset
+  </source>
+  <target>
+   Upravit Y ofset
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Adjust Zoom Factor
+  </source>
+  <target>
+   Upravit faktor zvetseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Adjust Tool Axis Rotation
+  </source>
+  <target>
+   Upravit osu rotace nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Adjust Protractor Angle
+  </source>
+  <target>
+   Upravit osu rotace nastoje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set X Zero Position
+  </source>
+  <target>
+   Nastav nulovou pozici X
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set Y Zero Position
+  </source>
+  <target>
+   Nastav nulovou pozici Y
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set Tool Axis Zero Position
+  </source>
+  <target>
+   Nastav nulu do osy nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set Protractor Zero Position
+  </source>
+  <target>
+   Nastav nulu na uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Medium protractor grid
+  </source>
+  <target>
+   Hruba mrizka uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Fine protractor grid
+  </source>
+  <target>
+   Jemna mrizka uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Very-fine protractor grid
+  </source>
+  <target>
+   Velmi jemna mrizka uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View tool endface
+  </source>
+  <target>
+   Nahled cela nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   View side of tool
+  </source>
+  <target>
+   Bocni nahled nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select free-hand manipulation
+  </source>
+  <target>
+   Vyber manipulaci volne ruce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select metric units
+  </source>
+  <target>
+   Vyber metricke jednotky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select imperial units
+  </source>
+  <target>
+   Vyber palcove jednotky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select section plane position in end-face view.
+  </source>
+  <target>
+   Vyber cast roviny v celnim pohledu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Radius of tool at viewport centre.
+  </source>
+  <target>
+   Polomer nastroje na vyrezu stredu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Diameter of tool at viewport centre.
+  </source>
+  <target>
+   prumer nastroje na vyrezu stredu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Go to X Zero Position
+  </source>
+  <target>
+   Jdi do nulove pozice X
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Go to Y Zero Position
+  </source>
+  <target>
+   Jdi do nulove pozice Y
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Go to Tool Axis Zero Position
+  </source>
+  <target>
+   Jdi do nulovych os nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Go to Protractor Zero Position
+  </source>
+  <target>
+   Jdi do nulove pozice uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset X Offset
+  </source>
+  <target>
+   Obnovit X kompenzaci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset Y Offset
+  </source>
+  <target>
+   Obnovit Y kompenzaci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Theta angle about reference point at viewport centre.
+  </source>
+  <target>
+   Uhel theta referencniho bodu na vyrezu stredu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle transparent blank
+  </source>
+  <target>
+   Transparentni profil polotovaru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle cutting profile
+  </source>
+  <target>
+   Transparentni rezny profil
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   New Yardstick
+  </source>
+  <target>
+   Nove meritko
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time Min
+  </source>
+  <target>
+   Cas min
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time Max
+  </source>
+  <target>
+   Cas max
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Approach/Retract
+  </source>
+  <target>
+   Prijeti/odjeti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel
+  </source>
+  <target>
+   Kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Pack
+  </source>
+  <target>
+   Sada
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cup
+  </source>
+  <target>
+   Hrnek
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Torus
+  </source>
+  <target>
+   Anuloid
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cylinder
+  </source>
+  <target>
+   Valec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cone
+  </source>
+  <target>
+   Kuzel
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Circle
+  </source>
+  <target>
+   Cyklus
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Disk Min
+  </source>
+  <target>
+   Disk min
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep Wheel Stationary
+  </source>
+  <target>
+   Stacionarni kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep Tool Stationary
+  </source>
+  <target>
+   Udrzet stabilni nastroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep Machine Stationary
+  </source>
+  <target>
+   Udrzet stabilni stroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep Column Stationary
+  </source>
+  <target>
+   Udrzet stabilni sloupec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Reset accumulated wheel slices
+  </source>
+  <target>
+   Obnovit nahromadene rezy kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save an image of the current tool as a PNG image
+  </source>
+  <target>
+   Uloz obrazek soucasneho nastroje jako PNG
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select dark background colour scheme
+  </source>
+  <target>
+   Vyber tmavou barvu pozadi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select white background colour scheme, ideal for printing
+  </source>
+  <target>
+   Vyber svetlou barvu pozadi, idealni pro tisk
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select textured background, for promotional purposes
+  </source>
+  <target>
+   Vyber texturu pozadi, pro propagacni ucely
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the current tool to an Autocad DXF file
+  </source>
+  <target>
+   Uloz soucasny nastroj do Autocad DXF souboru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select orthogonal viewing mode, preserves distances and angles
+  </source>
+  <target>
+   Vyber kolmy pohled, udrzujici vzdalenosti a uhly
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select perspective viewing mode, improved depth perception
+  </source>
+  <target>
+   Vyber perspektivni nahled, zlepsite hloubku pohledu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select metric units (mm)
+  </source>
+  <target>
+   Vyber metricke jednotky (mm)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select imperial units (inch)
+  </source>
+  <target>
+   Vyber palcove jednotky (inch)
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle grinding simulation mode
+  </source>
+  <target>
+   Prepni simulacni mod brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the tool as a solid
+  </source>
+  <target>
+   Zobraz nastroj jako plny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the tool as a wireframe
+  </source>
+  <target>
+   Zobraz nastroj jako drateny model
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide the tool
+  </source>
+  <target>
+   Skryt nastroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Hide the blank
+  </source>
+  <target>
+   Skryt polotovar
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the blank as a solid
+  </source>
+  <target>
+   Zobraz polotovar jako plny
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle display of the protractor overlay
+  </source>
+  <target>
+   Umisti zobrazeni prekryti uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle display of the protractor overlay
+  </source>
+  <target>
+   Prepni zobrazeni pokryti uhlomeru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Blended Background, Click on corners to customise
+  </source>
+  <target>
+   Smisene pozadi. Klikni na rohy pro prizpusobeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the base of the machine
+  </source>
+  <target>
+   Zobraz zakladnu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the machine canopy
+  </source>
+  <target>
+   Zobrazit skrin stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the machine headstock
+  </source>
+  <target>
+   Zobrazit konika
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the X axis of the machine
+  </source>
+  <target>
+   Zobrazit X osu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the Y Axis of the machine
+  </source>
+  <target>
+   Zobrazit Y osu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the Z Axis of the machine
+  </source>
+  <target>
+   Zobrazit Z osu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the C Axis of the machine
+  </source>
+  <target>
+   Zobrazit C osu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Enable display of the TX7 machine model
+  </source>
+  <target>
+   Povolit zobrazeni modelu stroje TX7
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the bridge of the machine
+  </source>
+  <target>
+   Zobraz pricny ram stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the pop-up steady
+  </source>
+  <target>
+   Zobraz lunetu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open or close the door of the TX7
+  </source>
+  <target>
+   Otevrit nebo zavrit dvere na TX7
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the headstock, Z axis, pop-up steady and C axis only
+  </source>
+  <target>
+   Zobrazit jen konika, Z osu, lunetu a C osu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the entire machine
+  </source>
+  <target>
+   Zobraz cely stroj
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Disable display of the machine model
+  </source>
+  <target>
+   Zakazat zobrazeni modelu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the wheel dresser of the machine
+  </source>
+  <target>
+   Zobraz orovnavac na stroji
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the P Axis of the machine
+  </source>
+  <target>
+   Zobraz P osu na stroji
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle display of the tool from a previous grind
+  </source>
+  <target>
+   Prepni zobrazeni nastroje z predesleho brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   CIMulator3D Options Page
+  </source>
+  <target>
+   Stranka nastaveni 3D simulace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the start page
+  </source>
+  <target>
+   Zobraz startovni stranku
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep camera relative to the headstock
+  </source>
+  <target>
+   Podrzet kameru vzhledem ke koniku.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the collet of the machine
+  </source>
+  <target>
+   Zobraz upinaci klestinu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Machine Menu
+  </source>
+  <target>
+   Menu stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the current tool to a .cim3d or .tpd file
+  </source>
+  <target>
+   Uloz soucasny nastroj a cestu do TPD souboru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save an image of the current tool as a JPEG image
+  </source>
+  <target>
+   Uloz obrazek soucasneho nastroje jako JPEG obrazek
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the current tool to a VRML file
+  </source>
+  <target>
+   Uloz soucasny nastroj do VRML souboru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Use user settings when opening a TPD file
+  </source>
+  <target>
+   Pouzit uzivatelske nastaveni pri otevirani TPD souboru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   User display menu to configure the initial display
+  </source>
+  <target>
+   Pouzit uzivatelske menu pro nastaveni prvniho zobrazeni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open the machine configuration dialog
+  </source>
+  <target>
+   Otevrit konfiguracni dialog stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep Headstock Stationary
+  </source>
+  <target>
+   Udrzet konika staticky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the blank with transparency
+  </source>
+  <target>
+   Zobraz polotovar transparentne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the wheel pack as a wireframe
+  </source>
+  <target>
+   Zobraz sadu kotoucu jako drateny model
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the wheel pack with transparency
+  </source>
+  <target>
+   Zobraz sadu kotoucu transparentne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep camera relative to the wheel pack
+  </source>
+  <target>
+   Udrzet kameru vzhledem k sade kotoucu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep camera relative to the tool
+  </source>
+  <target>
+   Udrzet kameru vzhledem k nastroji.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep camera relative to the machine, as an outside observer
+  </source>
+  <target>
+   Udrzet kameru vzhledem ke stroji jako venkovni pozorovatel.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Keep camera relative to the column
+  </source>
+  <target>
+   Udrzet kameru vzhledem ke stojanu stroje.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the cutting plane with transparency
+  </source>
+  <target>
+   Zobraz brousici rovinu transparentne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the wheel pack as a solid
+  </source>
+  <target>
+   Zobraz sadu kotoucu jako plnou
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display only the current grinding wheel
+  </source>
+  <target>
+   Zobraz jen soucasny brousici kotouc
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the current wheel pack
+  </source>
+  <target>
+   Zobraz soucasnou sadu kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select a fine level of grinding simulation
+  </source>
+  <target>
+   Vyber jemnou uroven simulace brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select a medium level of grinding simulation
+  </source>
+  <target>
+   Vyber stredni uroven simulace brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select a coarse level of grinding simulation
+  </source>
+  <target>
+   Vyber hrubsi uroven simulace brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open the machine axes dialog\nMachine Axes Dialog
+  </source>
+  <target>
+   Otevri dialog os stroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Perform interference test between the tool and other wheels, only.
+  </source>
+  <target>
+   Proved test interference jen mezi nastrojem a ostatnimi kotouci
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle infinite re-simulation of the current tool.
+  </source>
+  <target>
+   Prepnout nekonecne opetovne simulace soucasneho nastroje.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Suspend grinding.
+  </source>
+  <target>
+   Pozastavit brouseni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Status Window
+  </source>
+  <target>
+   Okno situace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the CIMulator3D status window
+  </source>
+  <target>
+   Zobraz okno situace 3D simulatoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D View
+  </source>
+  <target>
+   3D nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select the 3D viewing arrangement
+  </source>
+  <target>
+   Vyber 3D nahledove usporadani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cross-section View
+  </source>
+  <target>
+   Nahled rezu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select the cross-section viewing arrangement
+  </source>
+  <target>
+   Vyber nahledove usporadani rezu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Measurement View
+  </source>
+  <target>
+   Nahled mereni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select the measurement viewing arrangement
+  </source>
+  <target>
+   Vyber nahledove usporadani mereni
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   3D Views
+  </source>
+  <target>
+   Nahled 3D
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select the 3D projections viewing arrangement
+  </source>
+  <target>
+   Vyber nahledove usporadani 3D projekce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   2D View
+  </source>
+  <target>
+   2D nahled
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select the 2D viewing arrangement
+  </source>
+  <target>
+   Vyber 2D nahledove usporadani
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display and/or configure the CIMulator3D license configuration
+  </source>
+  <target>
+   Zobraz anebo uzpusob licenci 3D simulatoru
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the current tool to a STL file
+  </source>
+  <target>
+   Ulozit soucasny nastroj do souboru STL.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour code ground surfaces according to the wheel
+  </source>
+  <target>
+   Barevne kodovani povrchove plochy kotoucu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Colour Mapping Legend
+  </source>
+  <target>
+   Umisti popis barevne mapy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Toggle the colour mapping legend
+  </source>
+  <target>
+   Umisti popis barevne mapy
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Time
+  </source>
+  <target>
+   Cas
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Operation
+  </source>
+  <target>
+   Operace
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Wheel Section
+  </source>
+  <target>
+   Sekce kotouce
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move Number
+  </source>
+  <target>
+   Cislo pohybu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Collisions Dialog
+  </source>
+  <target>
+   Otevri dialog kolizi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open the collisions dialog
+  </source>
+  <target>
+   Otevri dialog kolizi
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Disk Max
+  </source>
+  <target>
+   Disk max
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Torus Min
+  </source>
+  <target>
+   Anuloid min.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Torus Max
+  </source>
+  <target>
+   Anuloid max.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cone Min
+  </source>
+  <target>
+   Kuzel min.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cone Max
+  </source>
+  <target>
+   Kuzel max.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Circle Min
+  </source>
+  <target>
+   Kruznice min.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Circle Max
+  </source>
+  <target>
+   Kruznice max.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cylinder Min
+  </source>
+  <target>
+   Valec min.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cylinder Max
+  </source>
+  <target>
+   Valec max.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Edit Caption
+  </source>
+  <target>
+   Edituj popisek
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Edit Position
+  </source>
+  <target>
+   Edituj pozici
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show Handle
+  </source>
+  <target>
+   Ukaz madlo
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Show Caption
+  </source>
+  <target>
+   Ukaz popisek
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Constrain
+  </source>
+  <target>
+   Nutit
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Departure
+  </source>
+  <target>
+   Odjezd
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Type
+  </source>
+  <target>
+   Typ
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   No.
+  </source>
+  <target>
+   Ne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Column
+  </source>
+  <target>
+   Sloupec
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Spindle
+  </source>
+  <target>
+   Vreteno
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Probe
+  </source>
+  <target>
+   Sonda
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Collet
+  </source>
+  <target>
+   Upinac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Headstock
+  </source>
+  <target>
+   Vretenik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Pop-up Steady
+  </source>
+  <target>
+   Luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Dresser
+  </source>
+  <target>
+   Orovnavac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   X-Axis
+  </source>
+  <target>
+   X-osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Y-Axis
+  </source>
+  <target>
+   Y-osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Z-Axis
+  </source>
+  <target>
+   Z-osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   P-Axis
+  </source>
+  <target>
+   P-osa
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Changing machine configuration will cause all detected collisions to be lost.\nYou will need to perform collision detection again with the new machine configuration.\n\nDo you want to proceed with this change?
+  </source>
+  <target>
+   Zmenou nastaveni stroje budou straceny vsechny detekovane kolize.\nPotrebujete opet zmenit detekci kolizi s novym nastavenim stroje.\n\nChcete pokracovat v techto zmenach?
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Departure: %.2f\r\n
+  </source>
+  <target>
+   Odchylka: %.2f\r\n
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Departure: %.2f - %.2f\r\n
+  </source>
+  <target>
+   Odchylka: %.2f - %.2f\r\n
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move: %d\r\n
+  </source>
+  <target>
+   Pohyb: %d\r\n
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Move: %d - %d\r\n
+  </source>
+  <target>
+   Pohyb: %d - %d\r\n
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Operation: %s\r\n
+  </source>
+  <target>
+   Operace: %s\r\n
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Collision between %s and %s\r\n
+  </source>
+  <target>
+   Kolize mezi %s and %s\r\n
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   wheel %d on pack %d
+  </source>
+  <target>
+   kotouc %d na sade %d
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   spacer on pack %d
+  </source>
+  <target>
+   podlozka na sade %d
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   wheel %d (inactive) on pack %d
+  </source>
+  <target>
+   kotouc %d (neaktivni) v sade %d
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cannot change model while collision detection is in progress.
+  </source>
+  <target>
+   Nelze zmenit model detekce, kolize kotoucu je v procesu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cycle time information not available
+  </source>
+  <target>
+   Informace o casu cyklu nejsou dostupne
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Unspecified Moves
+  </source>
+  <target>
+   Nespecifikovane pohyby
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   No collisions found.
+  </source>
+  <target>
+   Zadna kolize nenalezena.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Steady Bed
+  </source>
+  <target>
+   Loze lunety
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Clamp Steady
+  </source>
+  <target>
+   Upinaci luneta
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tailstock
+  </source>
+  <target>
+   Konik
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Unspecified
+  </source>
+  <target>
+   nespecifikovane
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rapid
+  </source>
+  <target>
+   Rychly
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Contour
+  </source>
+  <target>
+   Kontura
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Air Time
+  </source>
+  <target>
+   Casovy prostor
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Remove Object
+  </source>
+  <target>
+   Odstranit objekt
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Rapid Time
+  </source>
+  <target>
+   Rychly cas
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Cycle Time Dialog
+  </source>
+  <target>
+   Otevri dialog casu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Open the cycle time dialog
+  </source>
+  <target>
+   Otevri dialog casu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   CIMulator3D has encountered a problem with accessing the registry.\nSome CIMulator3D components may not function correctly.\n\nDo you want to continue?
+  </source>
+  <target>
+   Simulator 3D ma problem s pristupem k registru.\Nektere komponenty 3D simulatoru nemusi pracovat spravne.\n\n Chcete pokracovat?
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Error
+  </source>
+  <target>
+   Chyba
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the probe
+  </source>
+  <target>
+   Zobrazit sondu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Tools created using mode regrind where the wheels have been changed between\ngrinds cannot be saved. Simulate the tool without mode regrind and try again.
+  </source>
+  <target>
+   Nastroje vytvorene v rezimu prebrouseni, kde kotouče byly zymeneny\n brouseni nemuze byt ulozeno. provedte simulaci bez rezimu prebrouseni a zkuste znovu.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Contact Time
+  </source>
+  <target>
+   Cas kontaktu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Gap Time
+  </source>
+  <target>
+   Cas vzdalenosti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save edges of the current tool to a file
+  </source>
+  <target>
+   Uloz brity soucasneho nastroje do slozky.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save 2D cross section of the current tool to a file
+  </source>
+  <target>
+   Uloz 2D pricny rez soucasneho nastroje do slozky.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the clamp steady
+  </source>
+  <target>
+   Zobrazit sevreni lunety.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the steady bed of the machine
+  </source>
+  <target>
+   Zobrazit loze lunety stroje.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the current tool to a STEP file
+  </source>
+  <target>
+   Ulozit soucasny nastroj do souboru STEP.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Save the current tool to an IGES file
+  </source>
+  <target>
+   Ulozit soucasny nastroj do souboru IGES.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   IGES File (*.igs)|*.igs|
+  </source>
+  <target>
+   IGES soubor (*.igs)|*.igs|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Select a custom background colour scheme
+  </source>
+  <target>
+   Vybrat vlastni barevne schema pozadi.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display the wheel changer
+  </source>
+  <target>
+   Zobrazit vymenik nastroju
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Capture an image of the current tool to clipboard
+  </source>
+  <target>
+   Zalozit aktualni obraz nastroje do schranky.
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Gundrill Chuck
+  </source>
+  <target>
+   Upinac pro delove vrtaky
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Compensating Chuck
+  </source>
+  <target>
+   Kompenzacni upinac
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   CUSTOM
+  </source>
+  <target>
+   OBVYKLY
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   TPD COLLET
+  </source>
+  <target>
+   TPD KLESTINA
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Plane steps(*.pln)|*.pln|
+  </source>
+  <target>
+   Stupne roviny(*.pln)|*.pln|
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display profile overlay
+  </source>
+  <target>
+   Zobrazit pokryti profilu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Lock the profile overlay from the tool
+  </source>
+  <target>
+   Uzavrit pokryti profilu od nastroje
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Display attached dxf overlay
+  </source>
+  <target>
+   Zobrazit prilozene dxf pokryti
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Distance to reference point
+  </source>
+  <target>
+   Vzdalenost k referencnimu bodu
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set reference point
+  </source>
+  <target>
+   nastavit referencni bod
+  </target>
+ </phrase>
+ <phrase>
+  <source>
+   Set reference point to tool centre
+  </source>
+  <target>
+   Nastavit referencni bod na stred nastroje
+  </target>
+ </phrase>
+</QPH>

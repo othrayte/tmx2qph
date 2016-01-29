@@ -1,0 +1,49 @@
+<tmx version="1.4">
+  <header
+    creationtool="XYZTool" creationtoolversion="1.01-023"
+    datatype="PlainText" segtype="sentence"
+    adminlang="en-us" srclang="en"
+    o-tmf="ABCTransMem"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hello world!</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Bonjour tout le monde!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Kabooooom!</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open\nOpen a document</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Ouvert\nOuvrez un document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save As\nSave the document as a new file</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Enregistrer sous\nEnregistrez le document comme un nouveau fichier</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Some id, description or definition">
+      <tuv xml:lang="en">
+        <seg>Describe</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Décrire</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
