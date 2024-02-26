@@ -20,7 +20,7 @@ Options:
 """
 from docopt import docopt
 from bs4 import BeautifulSoup, NavigableString
-from fuzzywuzzy import fuzz
+from thefuzz import fuzz
 
 def containsTooltip(phrase, theshold):
     source = phrase['source']
